@@ -211,6 +211,7 @@ The model can generate predictions for new customer profiles:
 ```python
 sample = X.sample(1)
 prediction = model.predict(sample)
+```
 
 ## 🛠️ Tech Stack
 
